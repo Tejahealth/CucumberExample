@@ -11,6 +11,8 @@ Scenario:
 	#Scenario with BUT
 Scenario: 
 	When I enter username as "santosh43989" 
-	And I enter password as "12345678" 
+	And I enter password as "123458" 
 	Then Login should fail 
 	#But Relogin option should be available
+	#But Relogin option should be available2 option 
+	
